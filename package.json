@@ -1,0 +1,14 @@
+{
+  "name": "Halo Word",
+  "main": "haloword/main.html",
+  "window": {
+    // "icon": "haloword/icon256.png",
+    "frame": true,
+    "toolbar": false,
+    "width": 720,
+    "height": 480,
+    "position": "mouse",
+    "min_width": 720,
+    "min_height": 320
+  }
+}
